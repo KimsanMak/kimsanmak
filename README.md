@@ -1,5 +1,4 @@
-### Hi there 👋
-## About Me
+## About Me 👋
 "Hello, I'm Kimsan, a seasoned geoscientist turned modern-day data explorer. Armed with Python, SQL, Tableau, and algorithms, I navigate the landscape of data with precision. Just as I once explored the earth for precious metals with a hammer and compass, I now guide you through the complexities of data, transforming raw information into valuable insights, and uncovering the hidden 'gold mine' within your datasets. Beyond my passion for data analytics, photography serves as a creative outlet where my enthusiasm thrives.
 
 I'm currently freelancing in Germany and seeking remote opportunities globally.
