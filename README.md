@@ -1,9 +1,9 @@
 ## 👋 About Me 
-"Hello, I'm Kimsan, a seasoned geoscientist turned data analyst with a passion for data exploration, analysis, visualization and reporting.  
+Hello, I'm Kimsan, a geoscientist turned data analyst with a passion for data exploration, analysis, visualization, and machine learning.  
 
 I'm currently freelancing in Germany and seeking remote opportunities globally.
 
-This is a repository to share projects showcasing my data analytics skills.
+This is a repository where I showcase my projects and data analysis skills.
 
 
 ## 🛠️ Tools
