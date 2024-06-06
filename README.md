@@ -9,7 +9,7 @@ This is a repository where I showcase my projects and data analysis skills.
 ## 🛠️ Tools
 + Language: SQL, Python
 + Database: PostgreSQL
-+ Visualization: Tableau
++ Visualization: Tableau, Power BI
 
 <!--
 **KimsanMak/kimsanmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
