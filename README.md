@@ -1,5 +1,5 @@
 ## 👋 About Me 
-Hello, I'm Kimsan, a geoscientist turned data analyst with a passion for data exploration, analysis, visualization, and machine learning.  
+Hello, I'm Kimsan, a geoscientist transitioning into data analytics. With over ten years of international project management and data analysis experience in the mining, metal production, and environmental consulting business, I bring a unique blend of geoscientific expertise, business management, and data analytics skills.  Strong focus on data correlation, spatial analysis, pattern detection, risk quantification, and 3D modelling.
 
 I'm currently freelancing in Germany and seeking remote opportunities globally.
 
